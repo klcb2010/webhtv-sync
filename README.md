@@ -1,6 +1,6 @@
 CF创建 Workers  
 
-选择通过 Git 部署 
+点击 Continue with GitHub
 
 选择本项目 环境自动准备
 
