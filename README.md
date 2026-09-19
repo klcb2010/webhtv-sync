@@ -1,7 +1,7 @@
 
 
 
-forks本项目
+fork本项目
 
 CF创建 Workers  
 
