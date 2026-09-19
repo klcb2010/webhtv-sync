@@ -1,6 +1,6 @@
 CF创建 Workers  
 
-点击 Continue with GitHub
+点击 Continue with GitHub   授权 GitHub
 
 选择本项目 环境自动准备
 
