@@ -6,4 +6,4 @@ CF创建 Workers
 
 地址是  https://自定义域名/api/playback/sync
 
-设置 token  否则会报401
+设置 token   否则会报401
