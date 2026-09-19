@@ -1,0 +1,19 @@
+name = "webhtv-sync"
+main = "index.js"
+compatibility_date = "2024-09-23"
+
+[[durable_objects.bindings]]
+name = "RELAY_DO"
+class_name = "WebHTVRemoteRelayDO"
+
+[[durable_objects.bindings]]
+name = "PLAYBACK_DO"
+class_name = "WebHTVPlaybackSyncDO"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["WebHTVRemoteRelayDO"]
+
+[[migrations]]
+tag = "v2"
+new_sqlite_classes = ["WebHTVPlaybackSyncDO"]
